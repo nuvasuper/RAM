@@ -1,0 +1,1051 @@
+"C:/Users/Clark/Documents/Unreal Projects/RAM/RAM.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 3
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 4
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 7
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 8
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 9
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 10
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 11
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 12
+"../../../Engine/Plugins/Editor/PluginsEditor/PluginsEditor.uplugin" 13
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 14
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 15
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 16
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 17
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 18
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 19
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 20
+"../../../Engine/Plugins/Experimental/SteamVR/SteamVR.uplugin" 21
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 22
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 23
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 24
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 25
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 26
+"../../../Engine/Plugins/Messaging/ShmMessaging/ShmMessaging.uplugin" 27
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 28
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 29
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 30
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 31
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 32
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 33
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 34
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 35
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 36
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 37
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 38
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 39
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 40
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 41
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 42
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 43
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 44
+"../../../Engine/Plugins/Runtime/TwitchLiveStreaming/TwitchLiveStreaming.uplugin" 45
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 46
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 47
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 48
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 49
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 50
+"..\..\..\Engine\Content\Internationalization\icudt53l\cnvalias.icu" 51
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US_POSIX.res" 52
+"..\..\..\Engine\Content\Internationalization\icudt53l\pool.res" 53
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US.res" 54
+"..\..\..\Engine\Content\Internationalization\icudt53l\en.res" 55
+"..\..\..\Engine\Content\Internationalization\icudt53l\root.res" 56
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ucadata.icu" 57
+"..\..\..\Engine\Content\Internationalization\icudt53l\nfc.nrm" 58
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US_POSIX.res" 59
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US.res" 60
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en.res" 61
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\root.res" 62
+"..\..\..\Engine\Content\Internationalization\icudt53l\numberingSystems.res" 63
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\supplementalData.res" 64
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pool.res" 65
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en.res" 66
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\root.res" 67
+"..\..\..\Engine\Content\Internationalization\icudt53l\plurals.res" 68
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 69
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 70
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 71
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 72
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 73
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 74
+"../../../Engine/Config/Base.ini" 75
+"../../../Engine/Config/BaseEngine.ini" 76
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Config/DefaultEngine.ini" 77
+"../../../Engine/Config/Windows/WindowsEngine.ini" 78
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/Engine.ini" 79
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 80
+"../../../Engine/Config/BaseGame.ini" 81
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Config/DefaultGame.ini" 82
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/Game.ini" 83
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 84
+"../../../Engine/Config/BaseInput.ini" 85
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Config/DefaultInput.ini" 86
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/Input.ini" 87
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 88
+"../../../Engine/Config/BaseEditor.ini" 89
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Config/DefaultEditor.ini" 90
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/Editor.ini" 91
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 92
+"../../../Engine/Config/BaseEditorLayout.ini" 93
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/EditorLayout.ini" 94
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 95
+"../../../Engine/Config/BaseEditorUserSettings.ini" 96
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Config/DefaultEditorUserSettings.ini" 97
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/EditorUserSettings.ini" 98
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/EditorUserSettings.ini" 99
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 100
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/EditorKeyBindings.ini" 101
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 102
+"../../../Engine/Config/BaseCompat.ini" 103
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/Compat.ini" 104
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 105
+"../../../Engine/Config/BaseLightmass.ini" 106
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/Lightmass.ini" 107
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 108
+"../../../Engine/Config/BaseScalability.ini" 109
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/Scalability.ini" 110
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 111
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/GameUserSettings.ini" 112
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 113
+"../../../Engine/Config/BaseDeviceProfiles.ini" 114
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/DeviceProfiles.ini" 115
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 116
+"../../../Engine/Config/ConsoleVariables.ini" 117
+"..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 118
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\es.res" 119
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\es.res" 120
+"..\..\..\Engine\Content\Internationalization\icudt53l\es_ES.res" 121
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 122
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ja.res" 123
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\ja.res" 124
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja_JP.res" 125
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko.res" 126
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ko.res" 127
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\ko.res" 128
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko_KR.res" 129
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt_BR.res" 130
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt.res" 131
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\pt.res" 132
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pt.res" 133
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_CN.res" 134
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans_CN.res" 135
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans.res" 136
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh.res" 137
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_CN.res" 138
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_Hans_CN.res" 139
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_Hans.res" 140
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh.res" 141
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_CN.res" 142
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_Hans_CN.res" 143
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_Hans.res" 144
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh.res" 145
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres" 146
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 147
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres" 148
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 149
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 150
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 151
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 152
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 153
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 154
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 155
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MetalCommon.usf" 156
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 157
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 158
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 159
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 160
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 161
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 162
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 163
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 164
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 165
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 166
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 167
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 168
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 169
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 170
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 171
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 172
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 173
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 174
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 175
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 176
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 177
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 178
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 179
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 180
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 181
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 182
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 183
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 184
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 185
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 186
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 187
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 188
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 189
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 190
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 191
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 192
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 193
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 194
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 195
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 196
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 197
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 198
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 199
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 200
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 201
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 202
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 203
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 204
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 205
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 206
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 207
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 208
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 209
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 210
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 211
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 212
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 213
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 214
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 215
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 216
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 217
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 218
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 219
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 220
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 221
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 222
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 223
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 224
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 225
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 226
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 227
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 228
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 229
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 230
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 231
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 232
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 233
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 234
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 235
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 236
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 237
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 238
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 239
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 240
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 241
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 242
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 243
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 244
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 245
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 246
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 247
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 248
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 249
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 250
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 251
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 252
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 253
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 254
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 255
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 256
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 257
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 258
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 259
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 260
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 261
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 262
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 263
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 264
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 265
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 266
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 267
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 268
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 269
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 270
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 271
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 272
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 273
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 274
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 275
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 276
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 277
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 278
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 279
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 280
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 281
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 282
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 283
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 284
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 285
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 286
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 287
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 288
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 289
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 290
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 291
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 292
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 293
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 294
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 295
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 296
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 297
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 298
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 299
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 300
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 301
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 302
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 303
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 304
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 305
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 306
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 307
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 308
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 309
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 310
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 311
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 312
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 313
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 314
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 315
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 316
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 317
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 318
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 319
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 320
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 321
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 322
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 323
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 324
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 325
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 326
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 327
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 328
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 329
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 330
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 331
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 332
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 333
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 334
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 335
+"../../../Engine/Config/Android/AndroidEngine.ini" 336
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 337
+"../../../Engine/Config/IOS/IOSEngine.ini" 338
+"../../../Engine/Config/Linux/LinuxEngine.ini" 339
+"C:/Users/Clark/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc" 340
+"../../../Engine/DerivedDataCache/Compressed.ddp" 341
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 342
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 343
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 344
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 345
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 346
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 347
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 348
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 349
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 350
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 351
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 352
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 354
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 355
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 356
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 357
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 358
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 359
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 360
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 361
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 362
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 363
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 364
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 365
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 366
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 367
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 368
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 369
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 370
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 371
+"../../../Engine/Content/EngineResources/Black.uasset" 372
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 373
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 374
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 375
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 376
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 377
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 379
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 380
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 381
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 382
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 384
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 385
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 386
+"../../../Engine/Content/EngineSounds/Master.uasset" 387
+"../../../Engine/Content/EngineSounds/Music.uasset" 388
+"../../../Engine/Content/EngineSounds/SFX.uasset" 389
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 390
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 391
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 392
+"../../../Engine/Content/EngineSounds/Voice.uasset" 393
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 394
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 395
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 396
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 397
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 398
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 399
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 400
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 401
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 402
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 403
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 404
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 405
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 406
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 407
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 408
+"C:/Users/Clark/AppData/Local/UnrealEngine/4.7/Saved/Config/Windows/SourceControlSettings.ini" 409
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 410
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Saved/Config/Windows/SourceControlSettings.ini" 411
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 412
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 413
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 414
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 415
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 416
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 417
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 418
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 419
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 420
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 421
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 422
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 423
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 424
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Intermediate/CachedAssetRegistry.bin" 425
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Maps/TestMap.umap" 426
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Blueprints/Replicated.uasset" 427
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 428
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 429
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 430
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 431
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 432
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 433
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 434
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 435
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 437
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 438
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 439
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 440
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 441
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 442
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 443
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 444
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 445
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 446
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 447
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 448
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Character/ThirdPersonAnimBlueprint.uasset" 449
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Animations/ThirdPersonJump_End.uasset" 450
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Character/ThirdPersonSkeleton.uasset" 451
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 452
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Animations/ThirdPersonJump_Loop.uasset" 453
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Animations/ThirdPersonJump_Start.uasset" 454
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Character/ThirdPersonIdleRun.uasset" 455
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Animations/ThirdPersonIdle.uasset" 456
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Animations/ThirdPersonRun.uasset" 457
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Animations/ThirdPersonWalk.uasset" 458
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 459
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 460
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Blueprints/Projectile.uasset" 461
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Character/ThirdPersonSkelMesh.uasset" 462
+"../../../Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset" 463
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 464
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 465
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 466
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Explosion02.uasset" 467
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/P_Explosion.uasset" 468
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_Burst.uasset" 469
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Burst_M.uasset" 470
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 471
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 472
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 473
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 474
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 475
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 476
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 477
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 478
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Blueprints/BP_PlayerHUD.uasset" 479
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Blueprints/Menu.uasset" 480
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Meshes/CubeMaterial.uasset" 481
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Collapse02.uasset" 482
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/P_Fire.uasset" 483
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 484
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 485
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 486
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 487
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Water_N.uasset" 488
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 489
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D7A6DDC4465E336EBB5A2BAB3BE38__B4AF47D450F330B9D86734C189CDCDF596F27245.udd" 490
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D7A6DDC4465E336EBB5A2BAB3BE38__7EBEF48E180B68C8573D66EEC7AE897D2679152F.udd" 491
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D7A6DDC4465E336EBB5A2BAB3BE38__2D4DDDC43754181131022109CCB14356981CDB43.udd" 492
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D7A6DDC4465E336EBB5A2BAB3BE38__9270DD4EB26431E3021B67EFA2A366151DF7AB43.udd" 493
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_52C559804A172AC7913EED8787200__0A41B124325EFFBB8BD559E947BEB9129A889CDD.udd" 494
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_52C559804A172AC7913EED8787200__2DE4AF1F5E4B8D52E1424E7C267D08CB8AB51C5E.udd" 495
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_52C559804A172AC7913EED8787200__AE27EA37152A551311A619B1B95F64F7608D7264.udd" 496
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_52C559804A172AC7913EED8787200__8796B0CE51D0A9BCB8AB28BEE9C06C194FCF4D4D.udd" 497
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_52C559804A172AC7913EED8787200__46FFB9362D691C8B4CE69740EA2CD7D0147AD51A.udd" 498
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_52C559804A172AC7913EED8787200__2F833E025CCA550F172FCB98D6FF432E5F03B701.udd" 499
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_97249D8545D6A9D5DE2E3282FC7D3__BEEDCF3914C62E6C8527D2267621241247822A81.udd" 500
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/8/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF9C0B2ABD__6F00B8672F99BA009761516FA3AD1891EC7744BD.udd" 501
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_97249D8545D6A9D5DE2E3282FC7D3__C39C9CE63C80E4F78D0BE972669AA9648284130D.udd" 502
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/7/AUDIO_0002_0000_OGG_0001_3A13E117419C5BE2FBFEC0BC0E80629E.udd" 503
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF327F3EDB__5A73017737A161E7587066E955D772031C69BBE9.udd" 504
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF9DB0F8CB__85ABBADE971CAC96EBC5D189EA3C28868856188A.udd" 505
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF9DEDDE0C__04A8E4C77182D053572B5D282FCD04AB4A134AA9.udd" 506
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_97249D8545D6A9D5DE2E3282FC7D3__DD1D3A6E7845DF850B6D3DB88AEC86E525AFF76D.udd" 507
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_97249D8545D6A9D5DE2E3282FC7D3__36A1F6C62E454F2D2A1738B169004ADE5AE1B91E.udd" 508
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_97249D8545D6A9D5DE2E3282FC7D3__E0D64DEDDB883F01B4CD630B6C0B16DF0B4FB923.udd" 509
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_97249D8545D6A9D5DE2E3282FC7D3__C824708489C937CD0B8A81805A9EAFBFEA5E02DF.udd" 510
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF16B8265F__8B2165E6946D8D0B3820A5E84198712ECBACA5BE.udd" 511
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2DEEED3A4E121199FCA258B4EACBA__40434CB2334E56D9095CF59E3B23EC69BEBF9087.udd" 512
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2DEEED3A4E121199FCA258B4EACBA__70C3D5D2A3AC995D3184E865B19BA8B8D7119E85.udd" 513
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2DEEED3A4E121199FCA258B4EACBA__E7743BEEE7DD53821C1BEBBEADFB63D29A3C696A.udd" 514
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_9810C9B04F44DB14F64A60AB95E43DF4__E4FEAD2D514D0D212574C30698D1EFB26B1546B3.udd" 515
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_9810C9B04F44DB14F64A60AB95E43DF4__4648E656C562CC13FAA3CEDF1902EE8162E7D364.udd" 516
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/AUDIO_0002_0000_OGG_0001_A6E12C614B66182215E77BB91A3CB1BF.udd" 517
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF395C2CD9__B5066E373BECF1B861E0C5C0B85CC0A6668F0187.udd" 518
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF670934B1__E90D085443DD529375BF43009598D5385C2A1793.udd" 519
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_9810C9B04F44DB14F64A60AB95E43DF4__F52503F4DEA0C688461D0BBF5A5E907B17FD7F88.udd" 520
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_9810C9B04F44DB14F64A60AB95E43DF4__B467E36D79F10D9DF74BFB883AC1F7E9F308988F.udd" 521
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A992B0384CA65AEA832BDEBAF0F9E__402E67F3C7D5B83D632AFDDF0730D64817949EE6.udd" 522
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A992B0384CA65AEA832BDEBAF0F9E__33CC2361049BF7EF5E3669522290A0E9DE8D44D8.udd" 523
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A992B0384CA65AEA832BDEBAF0F9E__3B59B0737ACE193D6A35ECD8EE7AB51120A92600.udd" 524
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A992B0384CA65AEA832BDEBAF0F9E__73B8E84B5D3721634D792614C959AEEE30CAA068.udd" 525
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0BB19CD5430276BB39813EA4206D8__E861795A23E86636D141D5B8FD5F04DA30EF7A37.udd" 526
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0BB19CD5430276BB39813EA4206D8__B7282A52D8A2F98FF04633FF3A553FFA88B3456A.udd" 527
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0BB19CD5430276BB39813EA4206D8__D399483849FCFE459BEF9A89736D6E3C9A950C9A.udd" 528
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF59B01021__31637061229C7231054B2EB6878B12C10B5638AB.udd" 529
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0BB19CD5430276BB39813EA4206D8__7671402B9A5590EF90A90629E70DF53161C5B254.udd" 530
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0BB19CD5430276BB39813EA4206D8__3D595B72D0F14BBAAF2478B9437E6A079326BEB0.udd" 531
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_5C9FDF3F4BD9A55FF23F5984D3223564___36D008E7AAF45A82A8EE48C223EE40BE07F0AD19.udd" 532
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_5C9FDF3F4BD9A55FF23F5984D3223564___10D28E6C7CD490F89A87BB74EE8DB36D672216C1.udd" 533
+"../../../Engine/Content/Maps/Entry.umap" 534
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 535
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_5C9FDF3F4BD9A55FF23F5984D3223564___59BD9F32A49AEF89EEF5F6A1495EE400CF42F286.udd" 536
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_5C9FDF3F4BD9A55FF23F5984D3223564___576F6A3FEDB607C4D148251D9F3AA6D82EA9E6C9.udd" 537
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_5C9FDF3F4BD9A55FF23F5984D3223564___94B2C24B52BE2CEAF2C7712D20B01A78E8F51AB7.udd" 538
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_5C9FDF3F4BD9A55FF23F5984D3223564___CC836843B0524678A054D8798789C42ED5FA541D.udd" 539
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_3A4A8098449412F27BDB598F46E4B751__E0C4E6E69315B66CF7850E9D7DCAFF35E649D535.udd" 540
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_3A4A8098449412F27BDB598F46E4B751__DD69B789A7B8F4B7C7E478FC9EBCFEB6A5240249.udd" 541
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_3A4A8098449412F27BDB598F46E4B751__2D9D8059A2FA8B7FA0F7E583E2AA8D8DD34CC01E.udd" 542
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_3A4A8098449412F27BDB598F46E4B751__563631540230DD922EC26616B5D0B3BB18E68DEA.udd" 543
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Shaders/WorkingDirectory/10876/2/WorkerOutputOnly.out" 544
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Shaders/WorkingDirectory/10876/0/WorkerOutputOnly.out" 545
+"C:/Users/Clark/Documents/Unreal Projects/RAM/Intermediate/Shaders/WorkingDirectory/10876/1/WorkerOutputOnly.out" 546
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 547
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 548
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 549
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 550
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 551
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 552
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 553
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 554
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 555
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 556
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 557
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 558
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Meshes/Bump_StaticMesh.uasset" 559
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Meshes/CubeMesh.uasset" 560
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Meshes/LeftArm_StaticMesh.uasset" 561
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Meshes/Linear_Stair_StaticMesh.uasset" 562
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Meshes/Ramp_StaticMesh.uasset" 563
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Meshes/RightArm_StaticMesh.uasset" 564
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF327F3EDB__233265F46FF18661182EC26AA6ED148AD460DE89.udd" 565
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/7/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF9C0B2ABD__769DE4734952A8D9C2A84BCD74426BF2AA1A4D6F.udd" 566
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF9DB0F8CB__831A9C137FCFA2BFAF69C171088835588FBC2CEB.udd" 567
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF9DEDDE0C__30D2A1659753D8EC1052F6DF61B60FE317EB4B6D.udd" 568
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/0/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF16B8265F__F1185B64D88D6D77E0D1BE4B3810BC7B792FD75F.udd" 569
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF395C2CD9__E17059EEB209C922457E3AB17F94100BCB32E0DC.udd" 570
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF670934B1__29CB0CCA98A87A8CC91BCF17741F4AF56FB7FDAE.udd" 571
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF59B01021__60F2ED0FAE72E72084113AD9480C118BCDF987AA.udd" 572
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 573
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Maps/StarterMap.umap" 574
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 575
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Fire01_Cue.uasset" 576
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Fire01.uasset" 577
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 578
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Smoke01_Cue.uasset" 579
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Smoke01.uasset" 580
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/P_Smoke.uasset" 581
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 582
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 583
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Fire_Sparks01.uasset" 584
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/P_Sparks.uasset" 585
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_Spark.uasset" 586
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Spark_Core.uasset" 587
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 588
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Steam01_Cue.uasset" 589
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Steam01.uasset" 590
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/P_Steam_Lit.uasset" 591
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 592
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 593
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_Lamp.uasset" 594
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Lamp_M.uasset" 595
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Lamp_N.uasset" 596
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 597
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 598
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 599
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 600
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 601
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 602
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 603
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 604
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_MacroVariation.uasset" 605
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 606
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 607
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 608
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 609
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 610
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 611
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 612
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 613
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 614
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 615
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 616
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 617
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 618
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 619
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 620
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 621
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 622
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 623
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 624
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 625
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 626
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 627
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 628
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 629
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 630
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 631
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 632
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Gradinet_01.uasset" 633
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 634
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 635
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 636
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 637
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 638
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 639
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 640
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 641
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 642
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 643
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 644
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 645
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 646
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 647
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 648
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 649
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 650
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 651
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 652
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Ground_Grass.uasset" 653
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 654
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 655
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 656
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 657
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 658
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Ground_Moss.uasset" 659
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 660
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 661
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 662
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 663
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 664
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 665
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 666
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Metal_Copper.uasset" 667
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 668
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Metal_Gold.uasset" 669
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 670
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Metal_Rust.uasset" 671
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 672
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 673
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Metal_Steel.uasset" 674
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 675
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 676
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 677
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 678
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 679
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 680
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 681
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 682
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 683
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Rock_Slate.uasset" 684
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 685
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 686
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 687
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 688
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 689
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 690
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 691
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 692
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 693
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 694
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 695
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Tech_Panel.uasset" 696
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 697
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 698
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Water_Lake.uasset" 699
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Water_Ocean.uasset" 700
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Water_M.uasset" 701
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 702
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 703
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 704
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 705
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 706
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 707
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Wood_Oak.uasset" 708
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 709
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 710
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Wood_Pine.uasset" 711
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 712
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 713
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 714
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 715
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 716
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_Chair.uasset" 717
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Chair_M.uasset" 718
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Chair_N.uasset" 719
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Floor_400x400.uasset" 720
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Basic_Floor.uasset" 721
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Wall_400x200.uasset" 722
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Basic_Wall.uasset" 723
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 724
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 725
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Collapse_Cue.uasset" 726
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Collapse01.uasset" 727
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 728
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Starter_Birds01.uasset" 729
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Starter_Wind05.uasset" 730
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Starter_Wind06.uasset" 731
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 732
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Starter_Music01.uasset" 733
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 734
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 735
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 736
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/MaterialSphere.uasset" 737
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Chair.uasset" 738
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_CornerFrame.uasset" 739
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_Frame.uasset" 740
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Frame_M.uasset" 741
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Frame_N.uasset" 742
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_DoorFrame.uasset" 743
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_GlassWindow.uasset" 744
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_Glass.uasset" 745
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_PillarFrame.uasset" 746
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_PillarFrame300.uasset" 747
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Statue.uasset" 748
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_Statue.uasset" 749
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Statue_M.uasset" 750
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Statue_N.uasset" 751
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 752
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_TableRound.uasset" 753
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_TableRound.uasset" 754
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_TableRound_M.uasset" 755
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_TableRound_N.uasset" 756
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_WindowFrame.uasset" 757
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Cube.uasset" 758
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 759
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Sphere.uasset" 760
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6296E964453DE52C8501C98CD6367__BF10B4254C3980346964E33959F69F08AC6B0C8A.udd" 761
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6296E964453DE52C8501C98CD6367__90F1066B1F593E0D5F7B86871AF5209DB8AC86A2.udd" 762
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6296E964453DE52C8501C98CD6367__B4D100E7BD813DE6B74AFBC44B69D6DF96268DE9.udd" 763
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6296E964453DE52C8501C98CD6367__0EBCBB1E0CB523E0F1C595E6838830547DB39848.udd" 764
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_A92EE4E94A1A60B58BCBEBA687E24503__FB3DC2CC0BB655EB7842C50456FD196C5E4B7B60.udd" 765
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_A92EE4E94A1A60B58BCBEBA687E24503__0132FE879146E7CF4325B5A48A5A2BE821632429.udd" 766
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_A92EE4E94A1A60B58BCBEBA687E24503__B0015384840EB52975D78AD6B819EE6938B140FA.udd" 767
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_A92EE4E94A1A60B58BCBEBA687E24503__5FCC598E938C14386D6B61D3F511E03A196800A6.udd" 768
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/AUDIO_0002_0000_OGG_0001_8D7626FF43F2E7CB0FFEF1819DF93FE0.udd" 769
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF82AB387A__7A38D65D6A5877EB9D935AC61B91EC804C036280.udd" 770
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/0/AUDIO_0002_0000_OGG_0001_31D870B44577B2511571CA9564A08892.udd" 771
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/4/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF18A7578F__639CF03E0B6102B25560F7B4A970221D4ABEB486.udd" 772
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_02__E254B9603B2CE42FC2C81501D52B3273882283C7.udd" 773
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2509884045094__720DE698850C6A2C3C63BD3EDB7656C0C0A300B3.udd" 774
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_82__0D8811F3254F471C9A68ABF36EAE41F9AA51268C.udd" 775
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_7ADD9C6D496A1__208936C46A1BF2B6E376CEA93042E08B68DD76DD.udd" 776
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/0/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF3D5500D7__E16735C150C9754CE504D8E867763F2A604856B8.udd" 777
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF9166AFA3__67336C2FAEA2F12AD4648C90340950A309934ADA.udd" 778
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/9/AUDIO_0002_0000_OGG_0001_1FFCDDAF446F0A5DB5CD53804F454EE7.udd" 779
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/0/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFC401BEF9__35284255D5054A1ADCCEB84B969B751E63FA501B.udd" 780
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF851038FE__F17F6C7B7D6204F6278B38D84D11E83F94572C51.udd" 781
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_0D80CFF94ECE8E3C1B6D449AD9623D8D___95ABE4E524F05BA9C3F6C371988E47C5DA2A1283.udd" 782
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_0D80CFF94ECE8E3C1B6D449AD9623D8D___F844C625ED860186BE9F05F4FDFB9DD536F349EC.udd" 783
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_0D80CFF94ECE8E3C1B6D449AD9623D8D___531100233CD09C4D3DA76F72B88BFC9193BBF1E3.udd" 784
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_0D80CFF94ECE8E3C1B6D449AD9623D8D___848824EFB27BB750E639B8D0E12797298945956D.udd" 785
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_0D80CFF94ECE8E3C1B6D449AD9623D8D___B8AF6567F81641A62953420E5FDEECF652714D44.udd" 786
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_888032434D7A2E946E1D5D8123473__14A1E4E2C132C054DB545A5E70562B5AB682C9C6.udd" 787
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_888032434D7A2E946E1D5D8123473__4A2618FA133283035CB357E3D221324E137A3544.udd" 788
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_888032434D7A2E946E1D5D8123473__EC1953D04551A87B535BE3B3ECDB835553F4895B.udd" 789
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_888032434D7A2E946E1D5D8123473__2AF8C635F38DE22C03C07E22374605858C703403.udd" 790
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_888032434D7A2E946E1D5D8123473__356F51442520F5CDD2B83A496C2400F43E461EE4.udd" 791
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_888032434D7A2E946E1D5D8123473__A989093E4B048A023632CA4B3F1C936B3637B714.udd" 792
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A14F616442A02217C7278E83D3EFE__53D34FC9298165D419F2682AC605FAAD86C512AA.udd" 793
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A14F616442A02217C7278E83D3EFE__5DD47A40489E96A8B849085679667E1360826F20.udd" 794
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A14F616442A02217C7278E83D3EFE__CFBD5742E2C7C8A7AB8130667DCB9D3397D3D558.udd" 795
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A14F616442A02217C7278E83D3EFE__82D03A757A0BE53F7F73A144753643852D862D3B.udd" 796
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A14F616442A02217C7278E83D3EFE__810CBEB3D6474A55DB8780D9CF2AEDECEA6E4F63.udd" 797
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A14F616442A02217C7278E83D3EFE__3BADF6DC322C1BBB2673DCA617DAD837843CAC8E.udd" 798
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B38CD1E740DC8C4A04E86799EBABB76E___E8D8D329676F22A84873811005D45ADAE5E24CFF.udd" 799
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B38CD1E740DC8C4A04E86799EBABB76E___50CC5284B232B053F5912BD56ABAEF0385BBCF0D.udd" 800
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B38CD1E740DC8C4A04E86799EBABB76E___6FF790F884B2A14FAB03F33534EBA2F20262942A.udd" 801
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B38CD1E740DC8C4A04E86799EBABB76E___459EDCDAEA08F6972BE0AC9BE939BD4D7171D419.udd" 802
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B38CD1E740DC8C4A04E86799EBABB76E___AC080E62D2535CE45EE2744EB15E7C48A5DEBA8E.udd" 803
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B38CD1E740DC8C4A04E86799EBABB76E___822706D270E2E956BA48F0EFAEA7BFE11498D92F.udd" 804
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 805
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 806
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_01EAB94C456F4098209B4F9C04601__1EDA52865493F433CC601EEA28EAFD6E96C31275.udd" 807
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_01EAB94C456F4098209B4F9C04601__F1352135771BBA6A7516C03AC5A183B0D22EC02C.udd" 808
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Maps/Minimal_Default.umap" 809
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF851038FE__A5EB91A259DDD840ECA80B5DDC1537336C3E888F.udd" 810
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFE32B2B93__3FD899D164DA969F22D85B45D3F51AB451B63D46.udd" 811
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFE32B2B93__83C8C4748F18B16F424CD29BF0ED5527D74E0471.udd" 812
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFA4C08E39__319114816D1C0401FA3A1E468FA6BCE560128738.udd" 813
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFA4C08E39__4E2BE3AEB2C1FEAC57E10C09DF687362C4164641.udd" 814
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF5CCAFB97__0E6DB534B98BAC3EE8E501A5BC2117EE325A7B45.udd" 815
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF5CCAFB97__E65C086CC626AE328D305C4FBC879BAEC4071F92.udd" 816
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFCF95F585__D86CED3940C68FD25C71C6C3EA289C0B725CCF49.udd" 817
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFCF95F585__8C9DE3EA25EC15BBD76B5304C55F5C019E4EA209.udd" 818
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF3D5500D7__0FA9083FAA039C53EFD266B804B9288B13718DA8.udd" 819
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_12__7AEEA07E29B82E62B9945AC62E833496EC7334D8.udd" 820
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_04__73CA4CB9B4B0C35749E038E682AAEFF0511723D4.udd" 821
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3820455E4BFB4__1B1EF2E509EA6DC4B667879C2B85EEC54C514088.udd" 822
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF6CE4EB67__D702D619DB819292CE2F23EE3B8148DB4F03ED89.udd" 823
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF6CE4EB67__9C1D52925CD9D65766B2B858D6979400CB6C5FA4.udd" 824
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A71BCF0247850__F98DAEE569C991D7D48957B65EDD7368D103E702.udd" 825
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFFB3B8130__C35052AA7919C84EA5116AAE95319EB79B89A5E4.udd" 826
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/4/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFFB3B8130__75A109E199515EC2D0122B3926F80FBF09CD1586.udd" 827
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_86__B91E89731F517F24EEA6C6B6D861D953AB17CF7B.udd" 828
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_76F19F1A4349D__A26F76AE9C6A117B1062F609E02E22B6D776E180.udd" 829
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF677C75C3__65B3A99BB6524DBADEE6327B9D863A0955CFF7C9.udd" 830
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF677C75C3__3E4906116BDBB437530BCBF17980184530A84BF7.udd" 831
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Maps/Advanced_Lighting.umap" 832
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 833
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 834
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 835
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 836
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 837
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 838
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 839
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 840
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 841
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 842
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 843
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 844
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_AssetPlatform.uasset" 845
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 846
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 847
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 848
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 849
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 850
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 851
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 852
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 853
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 854
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Test_Blueprint.uasset" 855
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Actor_Blueprint.uasset" 856
+"../../../Engine/Content/BasicShapes/Cube.uasset" 857
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_51C5AB2A4424B78C744B20BC46292__D2E0F60D447F48FAA274D3F3C0134FE25BAB6978.udd" 858
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_51C5AB2A4424B78C744B20BC46292__215D10CAF56D46C83C03C8854CE28291505242E4.udd" 859
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_415A578842C46211F3FFE386F575D79__4A2C3E52DD553D84AFC2FE363B7F46AA0DCBDA74.udd" 860
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_415A578842C46211F3FFE386F575D79__F73F12D44CDF29A5765253FCEF00676CE2128AF9.udd" 861
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_742DCEAC42F04BC7D0B2C088B5722A85__13086F398634D5B6215F3C55F98D54265660C885.udd" 862
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_742DCEAC42F04BC7D0B2C088B5722A85__F063FDDDA1CB6061AF48B6D317D4A1F393D3E204.udd" 863
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Maps/Level5.umap" 864
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Level5.uasset" 865
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2142B23E4BF221F81FFA3A8950D26__4B3E13E93EDBF48724304AD10C6234B1ECE46CDE.udd" 866
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_CFAF20634A6AA92F19950EAB3969BAE8__37D940F072B5F679A7432420F8EA9022F48E87B6.udd" 867
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_917932584C9EAF60874055AF9B977E2__4A7E51965AF1D615EE6093EE9F192BD09164F4F3.udd" 868
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_5C__E78C2AC62ED73E87F83CEE07B17F60B470CE4090.udd" 869
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_88B66F264061F__35F70AF83B125B3C24A89E242AB2EEE12D420E44.udd" 870
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Meshes/03_-_Default.uasset" 871
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Blueprints/Level5.uasset" 872
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_68__A4193FEAC382C0B288935F74DEA0081F119F8DDD.udd" 873
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1A0A079249A73__0AFB744C44C37A373340B930ED4816548509ECC7.udd" 874
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Blueprints/Level4.uasset" 875
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_07__6B91DBC7C46124656951C133AEB86AECC2D02117.udd" 876
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D0897746497FB__B5D7965C7C854B22EABC804F5BA68E22B8865B35.udd" 877
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/Blueprints/Level1.uasset" 878
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_92__61A6F634355A1DA8CC5EB5AF8A6B253D401F53DE.udd" 879
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E64E24094EAD0__AA5DB3DC1715D32321C7BA4329ED6D5E21BFCD33.udd" 880
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 881
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/ThirdPersonBP/NewFont.uasset" 882
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_A_S.uasset" 883
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_A_N.uasset" 884
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Wood_a_d.uasset" 885
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_White_Painted_Metal_N.uasset" 886
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_White_Painted_Metal_D.uasset" 887
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_UNV_Concrete02_N.uasset" 888
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_UNV_Concrete02.uasset" 889
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Underground_Base_Pipe_N.uasset" 890
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Underground_Base_Pipe_D.uasset" 891
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Stone_Brick_N.uasset" 892
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Stone_Brick_D.uasset" 893
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Sky_Stars.uasset" 894
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Sky_Clouds_M.uasset" 895
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Shelf_N.uasset" 896
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Shelf_M.uasset" 897
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Detail_03_D.uasset" 898
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Detail_02_N.uasset" 899
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_Detail_02_D.uasset" 900
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_11b_D.uasset" 901
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_10_N.uasset" 902
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_10_D.uasset" 903
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_09_D.uasset" 904
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_08_N.uasset" 905
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_08_D.uasset" 906
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_07_N.uasset" 907
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_07_D.uasset" 908
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_07b_D.uasset" 909
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_06_N.uasset" 910
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_06_D.uasset" 911
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_05_N.uasset" 912
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_05_D.uasset" 913
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_03_N.uasset" 914
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_03_D.uasset" 915
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_01_N.uasset" 916
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rock_01_D.uasset" 917
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Rocky_01_N.uasset" 918
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_RockMesh_N.uasset" 919
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_RockMesh_M.uasset" 920
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_PatchyGrass_N.uasset" 921
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_PatchyGrass_D.uasset" 922
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Paint_Metal_Rust_N.uasset" 923
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Paint_Metal_Rust_D.uasset" 924
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_PaintedMetal01_N.uasset" 925
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_PaintedMetal01.uasset" 926
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Scuffed_N.uasset" 927
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Scuffed_D.uasset" 928
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Rust_01_N.uasset" 929
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Rust_01_D.uasset" 930
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Painted_04_N.uasset" 931
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Painted_04_D.uasset" 932
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Metal03_N.uasset" 933
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Metal03_D.uasset" 934
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Metal01_N.uasset" 935
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Metal01_D.uasset" 936
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_N.uasset" 937
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_E.uasset" 938
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Noise_N.uasset" 939
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Dirt_N.uasset" 940
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Dirt_D.uasset" 941
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_Detail_N.uasset" 942
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_02_N.uasset" 943
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_02_D.uasset" 944
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_01_N.uasset" 945
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Ground_01_D.uasset" 946
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Gravel_N.uasset" 947
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Gravel_D.uasset" 948
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Generic_Concrete_Base_07_N.uasset" 949
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Generic_Concrete_Base_07.uasset" 950
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Generic_Concrete_Base_06_N.uasset" 951
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Generic_Concrete_Base_06.uasset" 952
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Generic_Concrete_Base04_N.uasset" 953
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Generic_Concrete_Base04_D.uasset" 954
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Generic_Concrete_Base02_N.uasset" 955
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Generic_Concrete_Base02.uasset" 956
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Door_N.uasset" 957
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Door_M.uasset" 958
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Dirt_N.uasset" 959
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Dirt_D.uasset" 960
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_DesertCrystal01_N.uasset" 961
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Wall_N.uasset" 962
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Wall_D.uasset" 963
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Wall07_N.uasset" 964
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Wall07.uasset" 965
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_N.uasset" 966
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Floor01_N.uasset" 967
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_Floor01.uasset" 968
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_D.uasset" 969
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_01_N.uasset" 970
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete_01_D.uasset" 971
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete01_N.uasset" 972
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Concrete01_D.uasset" 973
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Cobble_01_H.uasset" 974
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_04_R.uasset" 975
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_04_N.uasset" 976
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_04_D.uasset" 977
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleStone_04b_D.uasset" 978
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_CobbleDark_01_D.uasset" 979
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Cliff_N.uasset" 980
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Cliff_M.uasset" 981
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Bush_N.uasset" 982
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Bush_D.uasset" 983
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Base_Metal_Gray_N.uasset" 984
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Base_Metal_Gray_D.uasset" 985
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Bark02_N.uasset" 986
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_Bark02_D.uasset" 987
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_ArmorMetal01_N.uasset" 988
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/T_ArmorMetal01.uasset" 989
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/Sky54a2048LDR.uasset" 990
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/Sky54a2048.uasset" 991
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/Metal_Tile_2_N.uasset" 992
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Textures/Metal_Tile_2.uasset" 993
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 994
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF9166AFA3__96D61A389FB6307264E4BA2D9A4CB9ED55B18555.udd" 995
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 996
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 997
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Tube.uasset" 998
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 999
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1000
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1001
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Trim.uasset" 1002
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Torus.uasset" 1003
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Plane.uasset" 1004
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1005
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1006
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1007
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1008
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1009
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Shapes/Shape_Cone.uasset" 1010
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1011
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_Rock.uasset" 1012
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1013
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1014
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_Door.uasset" 1015
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/Materials/M_Bush.uasset" 1016
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Stairs.uasset" 1017
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Shelf.uasset" 1018
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Rock.uasset" 1019
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1020
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Door.uasset" 1021
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Couch.uasset" 1022
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Props/SM_Bush.uasset" 1023
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1024
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1025
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Explosion_Cue.uasset" 1026
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Explosion01.uasset" 1027
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/2/AUDIO_0002_0000_OGG_0001_632D1B9A4FC93D9537554A9FD1692204.udd" 1028
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Light02_Cue.uasset" 1029
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Light02.uasset" 1030
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Light01_Cue.uasset" 1031
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Audio/Light01.uasset" 1032
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/5/AUDIO_0002_0000_OGG_0001_C4D28CFB48657B048091C99E4EA56881.udd" 1033
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1034
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1035
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Wall_500x500.uasset" 1036
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Wall_400x400.uasset" 1037
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Wall_400x300.uasset" 1038
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/SM_FloorPiece500x500.uasset" 1039
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/SM_CeilingPiece500x500.uasset" 1040
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1041
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Blueprints/NewWidgetBlueprint.uasset" 1042
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Level4.uasset" 1043
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_E0__F42FCCA365D64F862312978A82FCDA5217E28B1B.udd" 1044
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_DBEA6A004AC02__A3D2D26536B047B86B5ECB40894DBC44260E326B.udd" 1045
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Level3.uasset" 1046
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_FB__049A47DC1626836895F629EF1D6295B1E44A3256.udd" 1047
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F8F1B9924574C__03DDAF985A1F2076172A386EF254B34593E9C457.udd" 1048
+"../../../../../../Users/Clark/Documents/Unreal Projects/RAM/Content/Level1.uasset" 1049
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_E5__908CE4EE3764F670114ED8CCFAD1DF65D3672BCA.udd" 1050
+"C:/Users/Clark/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_334AC957428FC__A7E8653AACD5DC9C818FAC5E156CE7855902E6DE.udd" 1051
